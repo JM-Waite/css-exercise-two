@@ -54,4 +54,13 @@ article {
 
 .story-text {
   line-height: 120%;
+  font-size: 1em;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+h3 {
+  font-size: 2em;
 }
