@@ -51,3 +51,7 @@ article {
   margin: 0 auto;
   width: 50%;
 }
+
+.story-text {
+  line-height: 120%;
+}
